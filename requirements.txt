@@ -1,0 +1,27 @@
+# Marathon Training Analyzer - Requirements
+# Python 3.8+ required
+
+# Core data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Statistical analysis
+scipy>=1.10.0
+
+# HTTP requests and API
+requests>=2.31.0
+
+# Excel file support
+openpyxl>=3.1.0
+
+# Character encoding detection
+chardet>=5.0.0
+
+# Optional but recommended
+# tqdm>=4.65.0  # Progress bars (uncomment if desired)
+# python-dotenv>=1.0.0  # Environment variable management (uncomment if desired)
